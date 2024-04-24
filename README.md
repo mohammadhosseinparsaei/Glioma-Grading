@@ -32,3 +32,8 @@ Additionally, LazyClassifier was employed to aid in the selection of the best-pe
 - xgboost 2.0.3
 - lazypredict 0.2.12
 - matplotlib 3.8.0
+
+
+## Model Performance - Confusion Matrix
+
+![Confusion Matrix](https://github.com/mohammadhosseinparsaei/Glioma-Grading/blob/main/output.png)
