@@ -3,7 +3,7 @@
 This project focuses on using machine learning techniques to classify LGG (Lower-Grade Glioma) and GBM (Glioblastoma Multiforme). The dataset used for this project aims to find the optimal subset of mutation genes and clinical features for the glioma grading process, with the objective of improving performance and reducing costs.
 
 ## Dataset
-The dataset used in this project can be found [here](https://archive.ics.uci.edu/dataset/759/glioma+grading+clinical+and+mutation+features+dataset).
+The dataset used in this project (`TCGA_InfoWithGrade.csv`) has been uploaded to this repository. Additionally, you can download the dataset from [here](https://archive.ics.uci.edu/dataset/759/glioma+grading+clinical+and+mutation+features+dataset).
 
 Citation:
 Tasci, Erdal; Camphausen, Kevin; Krauze, Andra Valentina; and Zhuge, Ying. (2022). Glioma Grading Clinical and Mutation Features. UCI Machine Learning Repository. [DOI:10.24432/C5R62J](https://doi.org/10.24432/C5R62J).
